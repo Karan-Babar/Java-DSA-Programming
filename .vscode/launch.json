@@ -1,0 +1,41 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "LargestSmallestValue",
+            "request": "launch",
+            "mainClass": "Arrays.LargestSmallestValue",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
+            "name": "CreatArray",
+            "request": "launch",
+            "mainClass": "Arrays.CreatArray",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "Arrays.BinarySearch",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
+            "name": "ArraysFunctionArguments",
+            "request": "launch",
+            "mainClass": "Arrays.ArraysFunctionArguments",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "name": "Attach",
+            "port": 9229,
+            "request": "attach",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        }
+    ]
+}
