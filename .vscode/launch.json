@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Subarray",
+            "request": "launch",
+            "mainClass": "Arrays.Subarray",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
+            "name": "ReverceArray",
+            "request": "launch",
+            "mainClass": "Arrays.ReverceArray",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
+            "name": "PairsInArray",
+            "request": "launch",
+            "mainClass": "Arrays.PairsInArray",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
             "name": "LargestSmallestValue",
             "request": "launch",
             "mainClass": "Arrays.LargestSmallestValue",
