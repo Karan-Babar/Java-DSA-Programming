@@ -1,5 +1,6 @@
 package Arrays;
 
+//time complexity n^3
 public class Subarray {
     public static void printSubarray(int numbers[]){
          int ts = 0;

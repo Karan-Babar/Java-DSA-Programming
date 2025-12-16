@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SubarrayPrefix",
+            "request": "launch",
+            "mainClass": "Arrays.SubarrayPrefix",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
             "name": "Subarray",
             "request": "launch",
             "mainClass": "Arrays.Subarray",
