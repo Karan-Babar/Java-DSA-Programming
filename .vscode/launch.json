@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InbuildSort",
+            "request": "launch",
+            "mainClass": "Sorting.InbuildSort",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
             "name": "InsertionSort",
             "request": "launch",
             "mainClass": "Sorting.InsertionSort",
