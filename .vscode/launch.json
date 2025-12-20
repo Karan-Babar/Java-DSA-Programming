@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Matrices",
+            "request": "launch",
+            "mainClass": "TwoDArrays.Matrices",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
+            "name": "Matrices",
+            "request": "launch",
+            "mainClass": "DArrays.Matrices",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
+            "name": "Matrices",
+            "request": "launch",
+            "mainClass": "Matrices",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
             "name": "CountingSort",
             "request": "launch",
             "mainClass": "Sorting.CountingSort",
