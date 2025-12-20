@@ -1,6 +1,6 @@
 package TwoDArrays;
 
-public class TransposedMatrix {
+public class TransposeMatrix {
     
     public static void printTranspose(int matrix[][]){
 
@@ -13,7 +13,7 @@ public class TransposedMatrix {
 
        // Transpose matrix
         System.out.println("\nTransposed Matrix:");
-      for (int j = 0; j < matrix[0].length; j++) {
+         for (int j = 0; j < matrix[0].length; j++) {
             for (int i = 0; i < matrix.length; i++) {
                 System.out.print(matrix[i][j] + " ");
             }
