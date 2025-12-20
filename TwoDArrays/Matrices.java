@@ -32,7 +32,6 @@ public class Matrices {
         }
          System.out.println("largest value is : " + largest);
          System.out.println("Smallest value is : "+ smallest);
-    
       }
   
    public static void main(String[] args) {

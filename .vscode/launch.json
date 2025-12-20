@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DiagonalSum",
+            "request": "launch",
+            "mainClass": "TwoDArrays.DiagonalSum",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
             "name": "Matrices",
             "request": "launch",
             "mainClass": "TwoDArrays.Matrices",
