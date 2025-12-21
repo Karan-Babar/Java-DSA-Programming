@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrintStrings",
+            "request": "launch",
+            "mainClass": "Strings.PrintStrings",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
             "name": "TransposeMatrix",
             "request": "launch",
             "mainClass": "TwoDArrays.TransposeMatrix",
