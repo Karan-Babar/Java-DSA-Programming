@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SubStrings",
+            "request": "launch",
+            "mainClass": "Strings.SubStrings",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
             "name": "Comparison",
             "request": "launch",
             "mainClass": "Strings.Comparison",
