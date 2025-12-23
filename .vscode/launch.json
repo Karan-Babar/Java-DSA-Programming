@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "stringBuilder",
+            "request": "launch",
+            "mainClass": "Strings.stringBuilder",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
+            "name": "sb",
+            "request": "launch",
+            "mainClass": "Strings.sb",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
             "name": "Q2",
             "request": "launch",
             "mainClass": "Strings.Q2",
