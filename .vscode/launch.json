@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Q4",
+            "request": "launch",
+            "mainClass": "Strings.Q4",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
             "name": "Q3",
             "request": "launch",
             "mainClass": "Strings.Q3",
