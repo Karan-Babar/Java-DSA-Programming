@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AccessModifiers",
+            "request": "launch",
+            "mainClass": "OOPs.AccessModifiers",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
             "name": "ClassesAndObjects",
             "request": "launch",
             "mainClass": "OOPs.ClassesAndObjects",
