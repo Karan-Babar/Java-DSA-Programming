@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ClassesAndObjects",
+            "request": "launch",
+            "mainClass": "OOPs.ClassesAndObjects",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
             "name": "Q9",
             "request": "launch",
             "mainClass": "BitManipulation.Q9",
