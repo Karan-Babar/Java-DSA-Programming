@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GettersAndSetters",
+            "request": "launch",
+            "mainClass": "OOPs.GettersAndSetters",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
             "name": "AccessModifiers",
             "request": "launch",
             "mainClass": "OOPs.AccessModifiers",
