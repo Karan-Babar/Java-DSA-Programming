@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Hierarchical",
+            "request": "launch",
+            "mainClass": "OOPs.Inheritance.Hierarchical",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
+            "name": "Hierarchial",
+            "request": "launch",
+            "mainClass": "OOPs.Inheritance.Hierarchial",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
             "name": "MultiLevel",
             "request": "launch",
             "mainClass": "OOPs.Inheritance.MultiLevel",
