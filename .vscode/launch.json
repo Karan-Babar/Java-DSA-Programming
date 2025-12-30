@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StaticKey",
+            "request": "launch",
+            "mainClass": "OOPs.StaticKey",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
             "name": "Interfaces",
             "request": "launch",
             "mainClass": "OOPs.Interfaces",
