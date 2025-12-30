@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Abstraction",
+            "request": "launch",
+            "mainClass": "OOPs.Abstraction",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
             "name": "Polymorphism",
             "request": "launch",
             "mainClass": "OOPs.Polymorphism",
