@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Interfaces",
+            "request": "launch",
+            "mainClass": "OOPs.Interfaces",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
             "name": "Abstraction",
             "request": "launch",
             "mainClass": "OOPs.Abstraction",
