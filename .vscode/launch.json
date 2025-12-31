@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SuperKey",
+            "request": "launch",
+            "mainClass": "OOPs.SuperKey",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
             "name": "StaticKey",
             "request": "launch",
             "mainClass": "OOPs.StaticKey",
