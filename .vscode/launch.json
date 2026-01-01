@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Recursion.Factorial",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
             "name": "Problem1",
             "request": "launch",
             "mainClass": "Recursion.Problem1",
