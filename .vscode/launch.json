@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Problem6",
+            "request": "launch",
+            "mainClass": "Recursion.Problem6",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
             "name": "Palindrome",
             "request": "launch",
             "mainClass": "Recursion.Palindrome",
