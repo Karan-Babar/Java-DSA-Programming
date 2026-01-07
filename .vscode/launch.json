@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Q1",
+            "request": "launch",
+            "mainClass": "Recursion.Q1",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
             "name": "Problem9",
             "request": "launch",
             "mainClass": "Recursion.Problem9",
