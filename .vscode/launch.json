@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MergeSort",
+            "request": "launch",
+            "mainClass": "DivideAndConquer.MergeSort",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
             "name": "Q2",
             "request": "launch",
             "mainClass": "Recursion.Q2",
