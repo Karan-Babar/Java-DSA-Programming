@@ -1,7 +1,10 @@
 package DivideAndConquer;
 
 public class QuickSort {
-    
+    //Time complexity
+    //Average O(n.log.n)
+    //Worst O(n^2)
+    //Space O(1)
     public static void printArray(int arr[]){
         for(int i=0; i<arr.length; i++){
         System.out.print(arr[i]+" ");
