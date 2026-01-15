@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Q7",
+            "request": "launch",
+            "mainClass": "Strings.Q7",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
             "name": "Q1",
             "request": "launch",
             "mainClass": "DivideAndConquer.Q1",
