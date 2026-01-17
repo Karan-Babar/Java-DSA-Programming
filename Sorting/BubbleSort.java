@@ -1,5 +1,7 @@
 package Sorting;
 
+//worst case O(n^2).
+//best case O(n). (array is already sorted)
 public class BubbleSort {
     public static void sort(int arr[]){
         int swaps = 0;
