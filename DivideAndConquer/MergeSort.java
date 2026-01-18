@@ -2,6 +2,7 @@ package DivideAndConquer;
 
 public class MergeSort {
     
+    //Time complexity O(n log n)
     public static void printArray(int arr[]){
        for(int i=0; i<arr.length; i++){
         System.out.print(arr[i]+" ");
