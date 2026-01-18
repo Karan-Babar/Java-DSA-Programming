@@ -2,6 +2,8 @@ package DivideAndConquer;
 
 public class BinarySearch {
 
+    //Time complexity O(log n)
+    //Best case O(1)
     public static int binarysearch(int number [], int key){
         int start = 0;
         int end = number.length - 1;
