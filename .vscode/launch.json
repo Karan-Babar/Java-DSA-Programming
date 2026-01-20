@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Operation",
+            "request": "launch",
+            "mainClass": "Stack.Operation",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
             "name": "IntegerPali",
             "request": "launch",
             "mainClass": "Strings.IntegerPali",
