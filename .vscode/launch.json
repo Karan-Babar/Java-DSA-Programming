@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StringCompression",
+            "request": "launch",
+            "mainClass": "Strings.StringCompression",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "Strings.ReverseString",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
             "name": "Operations",
             "request": "launch",
             "mainClass": "Queue.Operations",
