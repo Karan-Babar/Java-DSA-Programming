@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FirstOccurrence",
+            "request": "launch",
+            "mainClass": "Strings.FirstOccurrence",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
             "name": "Permutation",
             "request": "launch",
             "mainClass": "Backtracking.Permutation",
