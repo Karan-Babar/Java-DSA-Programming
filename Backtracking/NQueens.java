@@ -2,10 +2,12 @@ package Backtracking;
 
 public class NQueens {
 
+    //Time complexity O(n!)
     public static void nQueens(char board[][], int row){
        
         if(board.length == row){
             printBoard(board);
+            count++;
             return;
         }
 
@@ -54,6 +56,8 @@ public class NQueens {
             System.out.println();
         }
     }
+
+    static int count = 0;
     public static void main(String[] args) {
 
         int n = 4;
@@ -66,5 +70,7 @@ public class NQueens {
         }
 
         nQueens(board, 0);
+
+        System.out.println("Total number of solution: "+count);
     }
 }
