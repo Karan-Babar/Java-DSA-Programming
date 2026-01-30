@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LeetCode52",
+            "request": "launch",
+            "mainClass": "Backtracking.LeetCode52",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
             "name": "LeetCode51",
             "request": "launch",
             "mainClass": "Backtracking.LeetCode51",
