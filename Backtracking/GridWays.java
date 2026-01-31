@@ -2,6 +2,7 @@ package Backtracking;
 
 public class GridWays {
 
+    //Time complexity O(2^(n+m))
     public static int countWays(int i, int j, int n, int m){
 
         if(i == n-1 && j == m-1){
