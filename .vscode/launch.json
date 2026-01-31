@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Sudoku",
+            "request": "launch",
+            "mainClass": "Backtracking.Sudoku",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
             "name": "GridWays",
             "request": "launch",
             "mainClass": "Backtracking.GridWays",
