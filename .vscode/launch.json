@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SubString",
+            "request": "launch",
+            "mainClass": "SlidingWindow.SubString",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
+            "name": "Subarray",
+            "request": "launch",
+            "mainClass": "SlidingWindow.Subarray",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
             "name": "Sudoku",
             "request": "launch",
             "mainClass": "Backtracking.Sudoku",
