@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Q3",
+            "request": "launch",
+            "mainClass": "Arrays.Q3",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
             "name": "Q1",
             "request": "launch",
             "mainClass": "SlidingWindow.Q1",
