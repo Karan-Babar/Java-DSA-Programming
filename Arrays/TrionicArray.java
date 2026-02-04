@@ -1,5 +1,6 @@
 package Arrays;
 
+//Time Complexity O(n)
 //nums[0...p] is strictly increasing,
 //nums[p...q] is strictly decreasing,
 //nums[q...n − 1] is strictly increasing.
