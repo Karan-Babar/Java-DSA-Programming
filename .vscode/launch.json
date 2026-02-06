@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BalanceArray",
+            "request": "launch",
+            "mainClass": "Arrays.BalanceArray",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
             "name": "TransformedArray",
             "request": "launch",
             "mainClass": "Arrays.TransformedArray",
