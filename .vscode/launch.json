@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BalancedSubarray",
+            "request": "launch",
+            "mainClass": "Arrays.BalancedSubarray",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
             "name": "BST",
             "request": "launch",
             "mainClass": "Tree.BST",
