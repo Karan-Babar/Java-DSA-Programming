@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Swap",
+            "request": "launch",
+            "mainClass": "ArrayLists.Swap",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
+            "name": "Maximum",
+            "request": "launch",
+            "mainClass": "ArrayLists.Maximum",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
             "name": "Basics",
             "request": "launch",
             "mainClass": "ArrayLists.Basics",
