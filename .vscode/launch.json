@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MultiDimension",
+            "request": "launch",
+            "mainClass": "ArrayLists.MultiDimension",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
             "name": "Sorting",
             "request": "launch",
             "mainClass": "ArrayLists.Sorting",
