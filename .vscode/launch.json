@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReverseBits",
+            "request": "launch",
+            "mainClass": "BitManipulation.ReverseBits",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
             "name": "AlternateBits",
             "request": "launch",
             "mainClass": "BitManipulation.AlternateBits",
