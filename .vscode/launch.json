@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Basics",
+            "request": "launch",
+            "mainClass": "LinkedList.Basics",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
             "name": "MonotonicArray",
             "request": "launch",
             "mainClass": "ArrayLists.MonotonicArray",
