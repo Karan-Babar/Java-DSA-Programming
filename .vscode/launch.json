@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Combinations",
+            "request": "launch",
+            "mainClass": "Backtracking.Combinations",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
             "name": "LonelyNumber",
             "request": "launch",
             "mainClass": "Arrays.LonelyNumber",
