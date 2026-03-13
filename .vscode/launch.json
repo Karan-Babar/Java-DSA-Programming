@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "LinkedList.Reverse",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
             "name": "Search",
             "request": "launch",
             "mainClass": "LinkedList.Search",
