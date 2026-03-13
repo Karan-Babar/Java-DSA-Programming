@@ -46,6 +46,22 @@ public class Search {
 
         System.out.println("Key is not found");
     }
+
+    //Recursion method
+    // public int  searchKey(Node head, int key, int i){
+    //     if(head == null){
+    //         return -1;
+    //     }
+
+    //     Node temp = head;
+    //     if(temp.data == key){
+    //         System.out.println("Key found at index : " + i);
+    //         return i;
+    //     }
+        
+    //    return searchKey(temp.next,key,i+1);
+    // }
+
     public static void main(String[] args) {
         Search ll = new Search();
 
@@ -56,6 +72,7 @@ public class Search {
         ll.addLast(5);
         ll.addLast(6);
 
-        ll.searchKey(6);
+      ll.searchKey(5);
+    //System.out.println(ll.searchKey(head,4,0));
     }
 }
