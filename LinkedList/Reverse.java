@@ -47,6 +47,24 @@ public class Reverse {
         head = prev;
     }
 
+    //Recursion method
+    // public void reverse(Node prev, Node curr){
+
+    //     if(curr == null){
+    //         head = prev;
+    //         return;
+    //     }
+        
+    //     Node next;
+
+    //         next = curr.next;
+    //         curr.next = prev;
+    //         prev = curr;
+    //         curr = next;
+
+    //     reverse(prev, curr);
+    // }
+
     public void print(){
         if(head == null){
             System.out.println("LL is Empty");
@@ -71,7 +89,10 @@ public class Reverse {
         ll.addLast(5);
         ll.addLast(6);
 
+        ll.print();
         ll.reverse();
         ll.print();
+        // ll.reverse(null, head);
+        // ll.print();
     }
 }
