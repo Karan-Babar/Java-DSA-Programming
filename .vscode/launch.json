@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Infy",
+            "request": "launch",
+            "mainClass": "Arrays.Infy",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
             "name": "InfyTest",
             "request": "launch",
             "mainClass": "BitManipulation.InfyTest",
