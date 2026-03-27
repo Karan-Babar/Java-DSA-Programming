@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InfyPractice",
+            "request": "launch",
+            "mainClass": "Arrays.InfyPractice",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
             "name": "Infy",
             "request": "launch",
             "mainClass": "Arrays.Infy",
