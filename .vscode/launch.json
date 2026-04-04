@@ -4,6 +4,13 @@
             "type": "java",
             "name": "mergeSort",
             "request": "launch",
+            "mainClass": "LinkedList.mergeSort",
+            "projectName": "Java-DSA-Programming_8c532a2b"
+        },
+        {
+            "type": "java",
+            "name": "mergeSort",
+            "request": "launch",
             "mainClass": "Sorting.mergeSort",
             "projectName": "Java-DSA-Programming_8c532a2b"
         },
